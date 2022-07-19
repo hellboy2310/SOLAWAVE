@@ -51,7 +51,7 @@ span{
 h1{
 
     margin-left: 14rem;
-    margin-right: 12rem;
+    margin-right: 15rem;
     font-family: sans-serif;
     color: #27081D;
 
@@ -63,7 +63,8 @@ h1{
     
 }
 .person{
-    margin-left: 1.5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
 }
 .cart{
     margin-left: 1.5rem;
