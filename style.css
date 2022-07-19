@@ -85,6 +85,112 @@ h1{
 }
 .unique-button{
     background-color: #27081D;
+}
+.active-selection{
+    display: flex;
+    flex-direction: column;
+}
+
+.rose-gold{
+    font-size: 40px;
+    
+}
+.first-circle{
+width: 55px;
+margin-left: 1rem;
+}
+.second-circle{
+    margin-bottom: 1.2rem;
+    margin-right: 1rem;
+}
+.third-circle{
+    margin-bottom: 1.2rem;
+}
+.product-container{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 10rem;
+    display: flex;
+    margin-right: 11rem;
+}
+.slider-section{
+    display: flex;
+    flex-direction: column;
+    margin-right: 1rem;
+    justify-content: center;
+     
 
 }
+
+.over{
+    font-size: 20px;
+    margin-top: 0.5rem;
+    color: #27081D;
+}
+
+
+.slider-img
+{
+    margin: 0.3rem;
+}
+.arrow{
+    width: 15px;
+    margin-left: 1.3rem;
+}
+.best-seller{
+    position:absolute;
+    left:38rem;
+    top:10.5rem;
+}
+.front-photo{
+    margin-right: 5rem;
+}
+.rating{
+    margin-top: 0.5rem;
+    color: #27081D;
+    margin-bottom: 1.5rem;
+}
+.review{
+    margin-left: 1rem;
+font-size: 14px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.award-line{
+    font-size: 18px;
+    padding-right: 6rem;
+    color: #27081D;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.minus-plus{
+    margin-top: 3rem;
+    margin-right: 2rem;
+    
+    
+}
+.button {
+    background-color: #EA6039; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 60px;
+    width: 400px;
+    margin-top: 2.2rem;
+
+}
+    .cart-container{
+        display: flex;
+        
+    }
+    .minus-plus{
+        height: 40px;
+    }
+.two{
+    margin-top: 2rem;
+    margin-left: 11.4rem;
+}
+
 
