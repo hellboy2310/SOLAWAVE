@@ -117,7 +117,9 @@ margin-left: 1rem;
     display: flex;
     flex-direction: column;
     margin-right: 1rem;
-    justify-content: center;
+    
+    margin-bottom: rem;
+    position: sticky;
      
 
 }
@@ -157,7 +159,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .award-line{
     font-size: 18px;
-    padding-right: 6rem;
+    padding-right: 4rem;
     color: #27081D;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -181,6 +183,8 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 2.2rem;
 
 }
+
+
     .cart-container{
         display: flex;
         
@@ -193,4 +197,65 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 11.4rem;
 }
 
+.smoothfineline{
+    display: flex;
+    font-size: 10px;
+    align-items: center;
+    color: #27081D;
+}
+.application-first-row{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.review1{
+    font-size: 13px;
+    margin-left: 1rem;
+    
+}
 
+.application-second-row{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+
+}
+.facilities{
+    display: flex;
+    margin-top: 2rem;
+    color: #27081D;
+    margin-bottom: 2rem;    
+}
+.three{
+margin-left: 2.3rem;
+margin-right: 1.5rem;
+font-size: 18px;
+color: #27081D;
+
+}
+
+.technology{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.htu{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+.included{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+.specification{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+.plus1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
