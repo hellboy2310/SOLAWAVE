@@ -1,5 +1,6 @@
 *{
 box-sizing: border-box;
+
 }
 *{
     margin:0px;
@@ -71,3 +72,18 @@ h1{
     height: 50px;
     width: 50px;
 }
+.variety{
+    display: flex;
+    align-items: center;
+    margin-top: 0.7rem;
+    margin-bottom: 2px;
+    margin-bottom: 0.7rem;
+}
+.first-circle{
+    border-color: #27081D;
+}
+.unique-button{
+    background-color: #27081D;
+
+}
+
