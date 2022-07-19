@@ -1,0 +1,30 @@
+*{
+box-sizing: border-box;
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+span{
+    font-family:sans-serif;
+    font-size: 15px;
+}
+
+.top-container{
+    height:2.3rem;
+    background-color:#27081D;
+    display: flex;
+    align-items: center;    
+    justify-content: center;
+
+    
+}
+.upper-color{
+    color:#EBB37D;
+    margin-left: 2rem;
+}
+.one{
+ margin-left: 4rem;
+ 
+ color:#EBB37D;
+}
