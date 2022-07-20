@@ -305,7 +305,7 @@ color: #27081D;
     margin-bottom: 3rem;
 }
 .card1{
-    height: 90vh;
+    height: 85vh;
     width:22.5vw;
     background-color: #EBB37D;
     color: #27081D;
@@ -315,6 +315,7 @@ color: #27081D;
     display: flex;
     justify-content: space-around;
     font-size: 14px;
+    
     border-bottom:1px solid #27081D;    
 }
 .age{
@@ -343,8 +344,17 @@ color: #27081D;
     
 }
 .notes-girl1{
-    margin-left: 1.5rem;
+    margin-left: 1rem;
     margin-top: 1.5rem;
-
+    font-size: 14px;
+}
+.written-note{
+    font-size: 14px;
+    margin-top: 1rem;
+    line-height: 150%;
+    margin-right: 1rem;
+}
+.allcards{
+    display: flex;
 }
 
