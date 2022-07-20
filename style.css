@@ -421,9 +421,159 @@ display: none;
     }
     .writing-part{
         margin-left: 1rem;
+        color: #27081D;
     }
+    .over{
+        margin-top: 1rem;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
     h2{
         
         font-size: 32px;
     }
-}
+    .review{
+        margin-top: 1rem;
+        font-size: 27px;
+        
+    }
+    .rating{
+        margin-bottom: 2rem;
+        font-size: 32px;
+    }
+    .award-line{
+        margin-top: 2rem;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding-right:1rem ;
+        margin-bottom: 2rem;
+    }
+    .variety{
+        margin-top: 1rem;
+        display: flex;
+        margin-bottom: 1rem;
+        
+    }
+    .rose-gold{
+        position: absolute;
+        width: 130px;
+        left: 5.5rem;
+        top:71.5rem;
+        
+        
+    }
+    .first-circle{
+        margin-left: 1.5rem;
+    }
+    .second-circle{
+        margin-left: 1.5rem;
+    }
+    .third-circle{
+        margin-left: 1.5rem;
+    }
+    .minus-plus{
+        display: none;
+    }
+    .button{
+        margin-left: 0.3rem;
+        padding: 1.8rem;
+        padding-left: 9rem;
+        padding-right: 9rem;
+        margin-top: 2rem;
+        background-color:#EA6039;
+        border: none;
+
+    }
+    .color{
+        font-size: 32px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .two{
+        font-size: 21px;
+    }
+    .collections{
+
+        display: flex;
+        justify-content: space-between;
+
+
+    }
+    .first{
+        margin-left: 6rem;
+        
+    }
+    .review1{
+        padding: 1rem;
+        font-size: 17px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-bottom: 1rem;
+    }
+ 
+    .facilities{
+        display: flex;
+        font-size: 14px;
+        color: #27081D;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-left: 1rem;
+        margin-bottom: 1rem;
+
+    }
+    .technology{
+        margin-top: 1rem;
+        font-size: 24px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+    }
+    .expected-technologies{
+        font-size: 24px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        display: none;
+    }
+    .htu{
+        margin-top: 1rem;
+        font-size: 24px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .expected-use{
+        font-size: 24px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        display: none;
+    }
+
+    .included{
+        margin-top: 1rem;
+        font-size: 24px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+    }
+
+    .expected-including{
+        font-size: 24px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        display: none;
+        
+    }
+        .specification{
+            margin-top: 1rem;
+            font-size: 24px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                
+        }
+        .expected-specification{
+            font-size: 24px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        display: none;
+            
+        }
+        .result-container{
+            display: none;
+        }
+        .plus1{
+            display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-bottom: 1rem;
+        }
+    }
+
