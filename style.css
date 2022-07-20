@@ -1,3 +1,4 @@
+@media screen and (min-width:1024px) {
 *{
 box-sizing: border-box;
 
@@ -5,7 +6,13 @@ box-sizing: border-box;
 *{
     margin:0rem;
     padding:0rem;
+
 }
+body{
+    width: 100%;
+}
+
+
 span{
     font-family:sans-serif;
     
@@ -116,7 +123,7 @@ margin-left: 1rem;
     display: flex;
     margin-right: 11rem;
     max-width: 100%;
-    padding-left: 10rem;
+    
 }
 .slider-section{
     display: flex;
@@ -310,7 +317,113 @@ color: #27081D;
     margin-bottom: 3rem;
 }
 
+.rightarrow{
+display: none;
+}
+.leftarrow{
+display: none;
+}
+.menu{
+    display: none;
+}
+.combiningformobile{
+    display: none;
+}
+
+}   
+ 
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+    .top-container{
+        background-color: #27081D;
+        max-width: 100%;
+        color: #EBB37D;
+        height: 2rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding-top: 1rem;
+        padding: 1rem;
+        align-items: center;
+        justify-content: center;
+
+    }
     
-   
- 
- 
+    .uc-mobile,.one{
+        display: none;
+    }
+    .uc2-mobile{
+        display: none;
+    }
+    .navbar-section,.navbar-section2{
+        display: none;
+    }   
+    .mobiletopcontainer{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 18px;
+        
+    }
+    .navbar-section,.navbar-section2{
+        display: none;
+
+    }
+    .bf,.person{
+        display: none;
+    }
+    .navbar{
+        display: flex;
+        height: 3rem;
+        justify-content: space-between;
+        padding: 1rem;
+        background-color:#EBB37D;
+    }
+    .product-container{
+        justify-content: center;
+        margin-left: 0.7rem;
+    }
+    .big-img{
+       margin-top: 1rem;
+       margin-bottom: 1rem;
+        
+    }
+    .slider-section{
+        
+        margin-top: 1rem;
+        align-items: center;
+        justify-content: center;
+        align-items: center;
+        margin-left: 1.4rem;
+    }
+    .arrow{
+       display:  none;
+    }
+    .leftarrow{
+        margin-bottom: 1rem;
+    }
+    .rightarrow{
+        margin-bottom: 1rem;
+    }
+    .slider-img{
+        width: 60px;
+        margin-left: 0.4rem;
+    }
+    .mobile{
+        display: none;
+    
+    }
+    .best-seller{
+        position: absolute;
+        left: 24rem;
+        top: 16rem;
+    }
+    .writing-part{
+        margin-left: 1rem;
+    }
+    h2{
+        
+        font-size: 32px;
+    }
+}
